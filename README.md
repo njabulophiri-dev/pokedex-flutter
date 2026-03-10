@@ -52,7 +52,7 @@ A cross-platform Pokédex application built with Flutter, featuring Pokémon lis
    # For iOS (requires Mac)
    flutter run -d ios
 
-🔥 Firebase Setup
+**🔥 Firebase Setup**
 Firebase Authentication is fully implemented in the codebase. To enable it:
 
 1.Create a Firebase project at https://console.firebase.google.com/
@@ -71,7 +71,7 @@ Firebase Authentication is fully implemented in the codebase. To enable it:
 
 The app will work with local favourites until Firebase is connected.
 
-🧪 Testing Status
+**🧪 Testing Status**
 Due to a MacBook hardware issue during development, I completed this project on a Windows machine. As a result:
 
 Platform  |	Status	           |Notes
@@ -82,7 +82,7 @@ iOS	      |⚠️ Pending	      |Configured, needs testing on Mac
 
 **Firebase Auth**: Fully implemented in code. The app is ready to connect. Once Firebase is configured with the correct API keys, authentication will work immediately.
 
-📋 What Works:
+**📋 What Works:**
 
 ✅ All UI screens implemented
 
@@ -104,7 +104,7 @@ iOS	      |⚠️ Pending	      |Configured, needs testing on Mac
 
 ✅ Responsive design for web and mobile
 
-🧪 Test Coverage
+**🧪 Test Coverage**
 The repository includes unit and widget tests, though some are currently failing due to Firebase mock issues in the test environment:
 
 1.Unit Tests: Model tests (Pokemon, PokemonDetail)
@@ -113,7 +113,7 @@ The repository includes unit and widget tests, though some are currently failing
 
 With proper Firebase mocking, all tests would pass.
 
-🔜 Planned Improvements
+**🔜 Planned Improvements:**
 With more time and my MacBook restored, I would:
 
 1.Complete iOS testing on physical device/simulator
@@ -132,7 +132,7 @@ With more time and my MacBook restored, I would:
 
 8.Add offline caching of Pokémon images
 
-📁 Project Structure:
+**📁 Project Structure:**
 
 lib/
 ├── models/          # Data classes (Pokemon, PokemonDetail)
@@ -146,7 +146,7 @@ test/
 ├── unit/            # Unit tests for models
 ├── widget/          # Widget tests for UI components
 
-⚙️ Configuration Files
+**⚙️ Configuration Files**
 -pubspec.yaml - Dependencies and assets
 
 -firebase_options.dart - Generated Firebase configuration
@@ -155,13 +155,13 @@ test/
 
 -ios/Runner/GoogleService-Info.plist - iOS Firebase config (to be added)
 
-🤝 Contributing
+**🤝 Contributing**
 This project was created as a technical assessment. Feedback and suggestions are welcome!
 
-📄 License
+**📄 License**
 This project is for assessment purposes only.
 
-👨‍💻 Author
+**👨‍💻 Author**
 Njabulo Phiri
 
 Email: njabulophiri36@icloud.com
@@ -170,7 +170,7 @@ GitHub: @njabulophiri-dev
 
 LinkedIn: njabulophiri36
 
-🙏 Acknowledgements
+**🙏 Acknowledgements**
 -PokéAPI for the amazing Pokémon data
 
 -Flutter for the cross-platform framework
