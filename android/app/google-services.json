@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065067790074",
+    "project_id": "pokedex-flutter-a223b",
+    "storage_bucket": "pokedex-flutter-a223b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065067790074:android:5b9ebc2cbf07539c389343",
+        "android_client_info": {
+          "package_name": "com.example.pokedex_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVfb40Afa3wuOpxIU_C3-CEM7WMmHn7Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
