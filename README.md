@@ -24,13 +24,13 @@ A cross-platform Pokédex application built with Flutter, featuring Pokémon lis
 
 ## 📸 Screenshots
 
-| Home Screen | Menu Navigation |
+| Home Screen | Menu Navigation | Dark Mode
 |-------------|-----------------|
-| <img src="screenshots/01_home_screen.png" width="300"> | <img src="screenshots/02_menu.png" width="300"> |
+| <img src="screenshots/01_home_screen.png" width="300"> | <img src="screenshots/02_menu.png" width="300"> | <img src="screenshots/03_dark_mode.png" width="300"> |
 
-| Dark Mode | Favourites Prompt | Login Screen |
+| Card Detail | Favourites Prompt | Login Screen |
 |-----------|-------------------|--------------|
-| <img src="screenshots/03_dark_mode.png" width="200"> | <img src="screenshots/04_favourites_prompt.png" width="200"> | <img src="screenshots/05_login.png" width="200"> |
+| <img src="screenshots/04_card_detail.png" width="200"> | <img src="screenshots/04_favourites_prompt.png" width="200"> | <img src="screenshots/05_login.png" width="200"> |
 
 ## 🚀 Setup Instructions
 
